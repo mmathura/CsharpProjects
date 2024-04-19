@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIZo5a9zAujkju8wSrkp37rQZ7vKfTZQxDpV8qowjQgQUvYuX5pisqc6nnJxsxT2No3qgoCnQ73XrmQEfikm8g==",
+  "success": true,
+  "projectFilePath": "/Users/mitchmathura/CsharpProjects/Challenge-Project-variable-data-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/mitchmathura/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/mitchmathura/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/mitchmathura/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.17/microsoft.netcore.app.host.osx-arm64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
